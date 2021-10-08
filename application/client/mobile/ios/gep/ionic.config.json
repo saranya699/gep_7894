@@ -1,0 +1,7 @@
+{
+  "name": "gep",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
